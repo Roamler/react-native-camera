@@ -1,3 +1,8 @@
+/*
+ * This file has been modified from the original version found here:
+ * https://github.com/react-native-camera/react-native-camera/blob/master/src/RNCamera.js
+ */
+
 // @flow
 import React from 'react';
 import PropTypes from 'prop-types';
